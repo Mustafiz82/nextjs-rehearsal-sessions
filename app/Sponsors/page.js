@@ -18,7 +18,7 @@ const page = () => {
         </div>
       </div>
 
-      <h1 className="text-2xl lg:text-5xl text-center my-14 font-semibold">
+      <h1 className="text-2xl lg:text-4xl 2xl:text-5xl text-center my-14 font-semibold">
         OUR SPONSORS{" "}
       </h1>
       <div className="max-w-[1000px] space-y-8 mx-auto">
